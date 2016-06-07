@@ -2,9 +2,13 @@
 prelimactivitynumber2-donotincludeanycode-camillecalicdan created by GitHub Classroom
 
 
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
+![](act2.png)
+![](act2a.png)
+![](act2b.png)
+![](act2c.png)
+![](act2d.png)
+![](act2e.png)
+![](actf.png)
+![](actg.png)
+![](acth.png)
+![](acti.png)
